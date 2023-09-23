@@ -1,0 +1,22 @@
+1. classes:
+  - I have added a ton more GUI classes and planned out properly how they're supposed to interact to make the GUI.
+  - I found problems with my old codes and fixed it. eg. i changed java.time.duration stuffs to chronoUnits thing.
+  - I realised i misunderstood the save file and load file thing, but the effect of this issue is kinda minimal.
+
+2. testing:
+  - I have not done any new testings, but I have fixed the old test classes and check if they work again after
+  making changes with my backend.
+
+3. difficulties:
+  - I don't know if i can finish my project in time.
+  - The more I work on the GUI, the more I realise how complex the GUI for this project actually is, in order to
+  support the functionalities properly.
+  - I have made many GUI classes but I can't actually test if many of them work due to how interlinked the stuffs
+  in my projects are, which is actually very terrifying.
+
+4. workload used: about 45 hours (quite a lof was spent for brainstorming and planning the execution for GUI),
+but yeah more stuffs need to be done
+
+5. progress assessment: Still worried I can't make it in time. It feels like I am rather near finishing, but since I
+couldnt test if many of the GUI classes work, and if the GUI and the backend will work tgt like how i expect them to,
+I am really not sure if I can finish and submit the project before the stipulated deadline

@@ -1,0 +1,9 @@
+{
+  "boards" : [
+  ],
+  "background" : "",
+  "templates" : [
+    "meeting on days:",
+    "weekly deadline on days:"
+  ]
+}
